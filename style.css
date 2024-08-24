@@ -1,0 +1,107 @@
+#logo img{
+
+    height: 10em;
+    width: 10em;
+
+}
+
+
+
+header{
+
+    margin: 0px;
+    padding: 0px ;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+nav a{
+
+    
+    margin: 0px 15px;
+    text-decoration: none;
+    color: orange;
+    
+}
+main{
+margin: 0%;
+padding: 0%;
+background-image:url("new.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+height: 22em;
+}
+#venus{
+    background-color:#FFA4B6;
+
+    margin-left: 800px ;
+    width: 500px;
+    height: 500px;
+    border: 10px;
+    box-shadow: 10px 10px 10px 10px ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#oreo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color:rgb(17, 16, 16);
+    background-color:#ff99ff;
+    padding-bottom: 40px;
+    
+}
+
+#mac{
+
+    font-size: x-large;
+    color: rgb(233, 23, 121);
+    background-color: aliceblue;
+    height: 160px;
+    padding-top: 30px;
+    padding-bottom: 90px;
+
+}
+.circle img{
+border-radius: 80px;
+}
+
+section{
+background-color:aliceblue ;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+
+}
+#coco img{
+
+    height: 600px;
+
+}
+
+footer{
+
+background-color: rgb(238, 163, 43);
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+font-size: large;
+}
+#box1{
+    background-image: url(SIDE.jpg);
+    background-size: cover;
+box-sizing: content-box;
+display: flex;
+flex-direction: row;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:medium;
+    color:rgb(8, 4, 5);
+    padding-bottom: 40px;
+}
+#candi img{
+
+    height: 50px;
+    width: 50px;
+}
